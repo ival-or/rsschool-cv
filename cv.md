@@ -41,6 +41,18 @@ Manual functional testing of web applications
 
 Provided thorough quality assurance cycle through manual testing of system components, bug reports, and work on improving server architecture with developers on system fixes and improvements.
 
+### Education
+* Gubkin Russian State University of Oil and Gas (National Research University)
+
+
+
+Master’s degree, Information Technology in Geophysics (Sep 2015 – Jun 2020)
+
+* Courses
+
+
+Ozon. Automated Web Testing in Go (Apr 2022 – Jun 2022)
+
 ### Languages
 * English (Professional working proficiency)
 * Russian (Native)
